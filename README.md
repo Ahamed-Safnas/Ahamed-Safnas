@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ahamed-safnas-8a968723b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahamed-safnas-8a968723b" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahamedsafnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahamedsafnas" height="30" width="40" /></a>
-<a href="https://instagram.com/__ahamed_safnas__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ahamed_safnas__" height="30" width="40" /></a>
+<a href="https://instagram.com/__ahamed_safnas__?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ahamed_safnas__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
