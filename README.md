@@ -1,4 +1,5 @@
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" width="1584" height="396">
+
+![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
 
 <h1 align="center">Hi 👋, I'm Ahamed Safnas</h1>
 <h3 align="center">A passionate Data Analyst from Sri Lanka</h3>
