@@ -9,13 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahamed-Safnas&label=Profile%20views&color=0e75b6&style=flat" alt="Ahamed-Safnas" /> </p>
 
-- 🔭 I’m pursuing Computer Eng at **NED University**
+
+
+- 🔭 I’m pursuing Computer Eng at <a href='https://www.neduet.edu.pk/' target="_blank" rel="noreferrer" >**NED University**</a>
 
 - 🌱 I’m currently learning **Tableau,AWS,AL/ML**
 
 - 💬 Ask me about **Data Analysis, Front-End**
 
-- 📫 How to reach me **safnas2042ahamed@gmail.com**
+- 📫 Reach me **safnas2042ahamed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
