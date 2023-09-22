@@ -1,7 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/d5f77c104128975.5f5bdc0d6d7b6.gif)
 
-<h1 align="center">Hi 👋, I'm Ahamed Safnas</h1>
-<h3 align="center">A passionate Data Analyst from Sri Lanka</h3>
+<h1 align="center">Hi 👋, 
+  <br>>__{"I'm" : "Ahamed Safnas"}</h1>
+
+<h2 align="center">| Data Analyst | Python Developer | Cloud & ML Enthusiast | Computer Engineer |</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -24,7 +26,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p> <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> 
-               <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"   
+               width="40" height="40"/> </a>
                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -43,6 +46,7 @@
 
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahamed-Safnas&show_icons=true&locale=en&layout=compact" alt="Ahamed-Safnas" /></p>
+<b>My GitHub Stats</b>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahamed-Safnas&show_icons=true&locale=en" alt="Ahamed-Safnas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamed-safnas&show_icons=true&locale=en" alt="ahamed-safnas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahamed-safnas&show_icons=true&locale=en&layout=compact" alt="ahamed-safnas" /></p>
