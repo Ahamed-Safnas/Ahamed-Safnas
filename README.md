@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Tableau,AWS,AL/ML**
 
-- 💬 Ask me about **Data Analysis, Front-End**
+- 💬 Ask me about **Data Analysis, Front-End Dev**
 
 - 📫 Reach me **safnas2042ahamed@gmail.com**
 
