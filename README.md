@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/d5f77c104128975.5f5bdc0d6d7b6.gif)
+
 
 <h1 align="center">Hi 👋, 
   <br>>__{"I'm" : "Ahamed Safnas"}</h1>
