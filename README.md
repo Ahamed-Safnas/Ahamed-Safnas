@@ -1,12 +1,11 @@
-
-![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_632/d5f77c104128975.5f5bdc0d6d7b6.gif)
 
 <h1 align="center">Hi 👋, I'm Ahamed Safnas</h1>
 <h3 align="center">A passionate Data Analyst from Sri Lanka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safnas2042&label=Profile%20views&color=0e75b6&style=flat" alt="safnas2042" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahamed-Safnas&label=Profile%20views&color=0e75b6&style=flat" alt="Ahamed-Safnas" /> </p>
 
 - 🔭 I’m pursuing Computer Eng at **NED University**
 
