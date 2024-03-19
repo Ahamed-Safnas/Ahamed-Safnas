@@ -13,7 +13,7 @@
 
 - 🔭 I’m pursuing Computer Eng at <a href='https://www.neduet.edu.pk/' target="_blank" rel="noreferrer" >**NED University**</a>
 
-- 🌱 I’m currently learning **Tableau,AWS,AL/ML**
+- 🌱 I’m currently learning **Tableau,Figma,AL/ML**
 
 - 💬 Ask me about **Data Analysis, Front-End Dev**
 
