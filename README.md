@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, 
   <br>>__{"I'm" : "Ahamed Safnas"}</h1>
 
-<h2 align="center">| Data Analyst | Python Developer | Cloud & ML Enthusiast | Computer Engineer |</h2>
+<h2 align="center">| Data Scientist | Python Developer | ML Enthusiast | Computer Engineer |</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -13,9 +13,9 @@
 
 - 🔭 I’m pursuing Computer Eng at <a href='https://www.neduet.edu.pk/' target="_blank" rel="noreferrer" >**NED University**</a>
 
-- 🌱 I’m currently learning **Tableau,Figma,AL/ML**
+- 🌱 I’m currently learning **Bio Informatics,AL/ML**
 
-- 💬 Ask me about **Data Analysis, Front-End Dev**
+- 💬 Ask me about **Data Analysis,Data Science**
 
 - 📫 Reach me **safnas2042ahamed@gmail.com**
 
