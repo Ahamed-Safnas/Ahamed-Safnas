@@ -18,7 +18,7 @@
       <li>🌱 Learning <strong>Kubernetes, Advanced ML architectures, and Cloud Infrastructure</strong></li>
       <li>💡 Interested in <strong>Generative AI, Distributed Systems, and Automation</strong></li>
       
-    </ul>
+  
 
   ### 🤝 Connect With Me
   <p align="left">
