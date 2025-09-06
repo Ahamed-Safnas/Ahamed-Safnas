@@ -3,50 +3,36 @@
 
 ---
 
+<!-- Right-aligned image for About Me Section -->
+<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding GIF" width="320">
+
 ## 🚀 About Me
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
 
-  <!-- About Me Text -->
-  <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
-    <p align='left'>
-      I'm a Computer Engineering student at <strong>NED University</strong> passionate about building intelligent systems and scalable infrastructure.  
-      My expertise spans across AI/ML engineering, DevOps practices, and software development.
-    </p>
-    <ul align='left'>
-      <li>🔭 Currently working on <strong>MLOps pipelines and cloud-native AI solutions</strong></li>
-      <li>🌱 Learning <strong>Kubernetes, Advanced ML architectures, and Cloud Infrastructure</strong></li>
-      <li>💡 Interested in <strong>Generative AI, Distributed Systems, and Automation</strong></li>
-      
-  
+I'm a Computer Engineering student at **NED University** passionate about building intelligent systems and scalable infrastructure.  
+My expertise spans across **AI/ML engineering, DevOps practices, and software development**.
 
-  ### 🤝 Connect With Me
-  <p align="left">
-    <a href="https://linkedin.com/in/ahamed-safnas-8a968723b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://kaggle.com/ahamedsafnas" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </a>
-    <a href="mailto:safnas2042ahamed@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-  </div>
+- 🔭 Currently working on **MLOps pipelines and cloud-native AI solutions**  
+- 🌱 Learning **Kubernetes, Advanced ML architectures, and Cloud Infrastructure**  
+- 💡 Interested in **Generative AI, Distributed Systems, and Automation**  
+- 📫 Reach me at: **safnas2042ahamed@gmail.com**
 
-  <!-- Coding GIF and Stats -->
-  <div style="flex: 1 1 250px; max-width: 400px; text-align: center;">
-    <img alt="Coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="width:100%; max-width:350px; border-radius:10px;">
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=Ahamed-Safnas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-      <br>
-      <img src="https://img.shields.io/github/followers/Ahamed-Safnas?style=social" alt="GitHub followers">
-      <img src="https://img.shields.io/github/stars/Ahamed-Safnas?style=social" alt="GitHub stars">
-    </p>
-  </div>
+---
 
-  </div>
-</div>
+### 🤝 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/ahamed-safnas-8a968723b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://kaggle.com/ahamedsafnas" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+  <a href="mailto:safnas2042ahamed@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<!-- Clear float so next sections don't wrap around the image -->
+<br clear="both">
 
 ---
 
@@ -67,20 +53,20 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahamed-Safnas&show_icons=true&theme=radical&count_private=true&include_all_commits=true" style="max-width: 48%; min-width: 300px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamed-Safnas&theme=radical" style="max-width: 48%; min-width: 300px;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahamed-Safnas&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamed-Safnas&theme=radical" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahamed-Safnas&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width:100%; max-width:600px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahamed-Safnas&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahamed-Safnas&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width:100%; max-width:800px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahamed-Safnas&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
