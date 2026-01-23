@@ -6,7 +6,7 @@
 <h2 align="center">
   AI/ML Engineer | DevOps Engineer | Software Engineer
 </h2>
-
+ 
 <!-- Background GIF -->
 <p align="center">
   <img src="https://i.ibb.co/WKZTv6P/tech-bg.gif" alt="Tech Background" width="100%" />
@@ -69,17 +69,12 @@ I'm a **Computer Engineering student at NED University**, passionate about **AI/
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahamed-Safnas&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamed-Safnas&theme=radical" height="170" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamed-Safnas&theme=radical" height="170" /> -->
 </div>
 
 ## 🚀 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahamed-Safnas&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahamed-Safnas&theme=radical&no-frame=false&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 ## ✨ Dynamic Quotes
