@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-  AI/ML Engineer | DevOps Engineer | Software Engineer
+  AI/ML Engineer | DevOps Engineer | Data Scientist
 </h2>
  
 <!-- Background GIF -->
